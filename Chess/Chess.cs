@@ -221,7 +221,7 @@ namespace Chess
 
         private void 关于ToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("本软件仅供参考\n联系QQ:361406133\n联系人:焦龙");
+            MessageBox.Show("2020 五子棋");
         }
     }
 }
